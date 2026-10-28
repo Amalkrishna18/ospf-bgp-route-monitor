@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.backup
+*.save*
+*.working_backup*
+*.duplicate_detection_backup*
+route_monitor
+route_monitor.log
+route_monitor_previous.log
+.env
+generate_test_pcap_backup.py
